@@ -46,3 +46,5 @@ urllib3==2.2.3
 watchdog==4.0.2
 zipp==3.20.2
 zope.interface==7.1.1
+setuptools
+pip
